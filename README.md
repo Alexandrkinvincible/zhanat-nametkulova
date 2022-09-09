@@ -3,16 +3,6 @@
 </div>
 
 
-I am a Software QA Engineer and I'm in love with what I do 👩‍💻 
-
-When you smile the world is a better place, that’s why I always smile! <img src="https://media.giphy.com/media/C9JPsfsiV5CYwGTjHp/giphy.gif" width="30">
-
-
-In my free time, I read a lot and love to develop my skills in Python and SQL.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhanat-nametkulova/)
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -22,8 +12,15 @@ In my free time, I read a lot and love to develop my skills in Python and SQL.
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
 </div>
 
+I am a Software QA Engineer and I'm in love with what I do 👩‍💻 
 
+When you smile the world is a better place, that’s why I always smile! <img src="https://media.giphy.com/media/C9JPsfsiV5CYwGTjHp/giphy.gif" width="30">
+
+
+In my free time, I read a lot and love to develop my skills in Python and SQL.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhanat-nametkulova/)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QXaSadUXCKbAZD2ANH/giphy-downsized.gif" width="300" height="400"/>
+  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy-downsized.gif" width="400" height="500"/>
 </div>
