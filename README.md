@@ -1,5 +1,7 @@
+                                                The future depends on what you do today!
+
 <div align="center">
-  <img src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" width="500" height="500"/>
+  <img src="https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/new-york-and-philadelphia-skylines-mashup-michael-tompsett.jpg" width="900" height="300"/>
 </div>
 
 
