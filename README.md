@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="150"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" width="600" height="600"/>
 </div>
 
 
@@ -21,6 +21,8 @@ In my free time, I read a lot and love to develop my skills in Python and SQL.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhanat-nametkulova/)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" width="600" height="600"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="150"/>
 </div>
+
+
